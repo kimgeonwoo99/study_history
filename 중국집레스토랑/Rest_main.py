@@ -1,7 +1,7 @@
-from Ownerrest import Ownerrest
-from Firstrest import Firstrest
-from Secondrest import Secondrest
-from Thirdrest import Thirdrest
+from OwnerRest import OwnerRest
+from FirstRest import FirstRest
+from SecondRest import SecondRest
+from ThirdRest import ThirdRest
 
 if __name__ == "__main__":
     a = Ownerrest(8000, 8000, 12000, 3000, 1000)
