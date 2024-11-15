@@ -1,6 +1,6 @@
-from Ownerrest import Ownerrest
+from OwnerRest import OwnerRest
 
-class Thirdrest(Ownerrest):
+class ThirdRest(OwnerRest):
     def __init__(self,jjajang,jjampong,pork=12000,dumpling=3000,rice=1000):
         super().__init__(jjajang,jjampong,pork,dumpling,rice)
     def print_price(self,idx=3):
