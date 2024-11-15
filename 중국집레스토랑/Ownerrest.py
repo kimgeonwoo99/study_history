@@ -1,4 +1,4 @@
-class Ownerrest:
+class OwnerRest:
     def __init__(self,jjajang,jjampong,pork,dumpling,rice):
         self.price_dict = {
             "짜장":jjajang, 
